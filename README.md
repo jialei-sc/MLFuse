@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 For a quick start, please run 
 ```shell
-python train.py --root './train_dataset' --batch_size 16 --save_path './train_result' --summary_name 'MultiTask_qiuck_start_'
+python train.py --root './train_dataset' --batch_size 16 --save_path './train_result/'
 ```
 and the trained model is available in ``--save_path``.
 
@@ -54,7 +54,7 @@ It can be downloaded via [this link](https://github.com/Linfeng-Tang/MSRS), [thi
 
 * For a quick start, please run 
 ```shell
-python test_gray.py --model_path './model/model_fuse.pth' --test_path './test_dataset/ct_mri_set' --result_path './test_result/test_ct'
+python test_gray.py --model_path './model/model_fuse.pth' --test_path './test_dataset/ct_mri_set/' --result_path './test_result/test_ct_mri/'
 ```
 * Managing RGB Input
 
