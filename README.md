@@ -69,13 +69,13 @@ We refer to the [code](https://github.com/Linfeng-Tang/Image-Fusion/tree/main/Ge
 
 ### Illustration of our MLFuse model.
 
-<img src="image/framework.png" width="50%" align=center />
+<img src="image/framework.png" width="80%" align=center />
 
-<img src="image/framework_detail.png" width="50%" align=center />
+<img src="image/framework_detail.png" width="80%" align=center />
 
-<img src="image/vis.png" width="50%" align=center />
+<img src="image/vis.png" width="80%" align=center />
 
-<img src="image/medical.png" width="50%" align=center />
+<img src="image/medical.png" width="80%" align=center />
 
 ### 📖 Citation
 If you find our work useful in your research please consider citing our paper:
